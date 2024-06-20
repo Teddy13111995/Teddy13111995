@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teddy13111995
 - 👀 I’m interested in coding, coding, coding!!!  
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking to collaborate on any projects related to software engineering
 - 📫 How to reach me ? srijangupta10@gmail.com
 
 <!---
